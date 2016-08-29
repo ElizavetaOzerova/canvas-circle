@@ -1,0 +1,11 @@
+body {
+  background-color: #4B3F53;
+}
+
+canvas {
+  border: 10px solid #476724;
+  border-radius: 50%;
+  margin: 20px 26%;
+  background-color: #F1BF57;
+  box-shadow: 2px 0 5px 0 #4B3F53;
+}
